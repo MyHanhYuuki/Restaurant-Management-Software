@@ -1,0 +1,2 @@
+# QuanLyNhaHang
+.Net Core - Angular
