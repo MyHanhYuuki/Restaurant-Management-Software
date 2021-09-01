@@ -29,14 +29,9 @@ namespace QLNH_APIs
         public void ConfigureServices(IServiceCollection services)
         {
             string mySqlConnectionStr = Configuration.GetConnectionString("DefaultConnection");
-            NewMethod(services, mySqlConnectionStr);
+            services.AddDbContextPool<ApplicationDbContext>(options => options.UseMySql(mySqlConnectionStr, ServerVersion.AutoDetect(mySqlConnectionStr)));
 
             services.AddControllers();
-
-            static void NewMethod(IServiceCollection services, string mySqlConnectionStr)
-            {
-                services.AddDbContextPool<ApplicationDbContext>(options => options.UseMySql(mySqlConnectionStr, ServerVersion.AutoDetect(mySqlConnectionStr)));
-            }
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

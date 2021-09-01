@@ -6,7 +6,6 @@ F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH_APIs.
 F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH_APIs.runtimeconfig.dev.json
 F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH_APIs.dll
 F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\bin\Debug\netcoreapp3.1\QLNH_APIs.pdb
-F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.csprojAssemblyReference.cache
 F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.AssemblyInfoInputs.cache
 F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.AssemblyInfo.cs
 F:\QuanLyNhaHang\Web APIs\QLNH_APIs\QLNH_APIs\obj\Debug\netcoreapp3.1\QLNH_APIs.csproj.CoreCompileInputs.cache
