@@ -1,2 +1,2 @@
-# QuanLyNhaHang
-.Net Core - Angular
+# Restaurant-Management-Software
+.Net Core - Angular12
